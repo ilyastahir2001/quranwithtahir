@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <!-- Main Academy Landing Page -->
+  <url>
+    <loc>https://quranwithtahir.com/</loc>
+    <lastmod>2025-05-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <!-- Course Catalog - High Priority for SEO Ranking -->
+  <url>
+    <loc>https://quranwithtahir.com/courses</loc>
+    <lastmod>2025-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <!-- Enrollment / Registration Page -->
+  <url>
+    <loc>https://quranwithtahir.com/register</loc>
+    <lastmod>2025-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <!-- Faculty / Tutors Page -->
+  <url>
+    <loc>https://quranwithtahir.com/tutors</loc>
+    <lastmod>2025-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- Pricing & Fee Packages -->
+  <url>
+    <loc>https://quranwithtahir.com/pricing</loc>
+    <lastmod>2025-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <!-- Educational Resources Hub -->
+  <url>
+    <loc>https://quranwithtahir.com/resources</loc>
+    <lastmod>2025-05-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <!-- Daily Dua Hub -->
+  <url>
+    <loc>https://quranwithtahir.com/daily-duas</loc>
+    <lastmod>2025-05-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <!-- Digital Quran Reader -->
+  <url>
+    <loc>https://quranwithtahir.com/read-quran</loc>
+    <lastmod>2025-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <!-- About the Academy & Director -->
+  <url>
+    <loc>https://quranwithtahir.com/about</loc>
+    <lastmod>2025-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <!-- Contact & Support -->
+  <url>
+    <loc>https://quranwithtahir.com/contact</loc>
+    <lastmod>2025-05-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+</urlset>

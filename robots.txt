@@ -1,0 +1,10 @@
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Allow: /
+# Block sensitive management areas from Google search
+Disallow: /admin
+Disallow: /dashboard
+Disallow: /live-class
+
+# Point directly to the sitemap for faster indexing
+Sitemap: https://quranwithtahir.com/sitemap.xml

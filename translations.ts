@@ -1,0 +1,62 @@
+export const TRANSLATIONS = {
+  EN: {
+    DIR: 'ltr',
+    NAV_HOME: 'Home',
+    NAV_ABOUT: 'About',
+    NAV_COURSES: 'Courses',
+    NAV_TUTORS: 'Tutors',
+    NAV_RESOURCES: 'Resources',
+    NAV_PRICING: 'Pricing',
+    HERO_TITLE: 'Elevate Your Soul with World-Class Tutoring',
+    HERO_SUB: 'Experience 1-on-1 scholarly sessions designed for families who prioritize authentic Tajweed.',
+    CTA_TRIAL: 'Book Free Trial',
+    STATUS_GLOBAL: 'Global Quranic Excellence',
+    PORTAL_LOGIN: 'Portal Login',
+    BECOME_TUTOR: 'Become a Tutor'
+  },
+  AR: {
+    DIR: 'rtl',
+    NAV_HOME: 'الرئيسية',
+    NAV_ABOUT: 'من نحن',
+    NAV_COURSES: 'الدورات',
+    NAV_TUTORS: 'المعلمون',
+    NAV_RESOURCES: 'المصادر',
+    NAV_PRICING: 'الأسعار',
+    HERO_TITLE: 'ارتقِ بروحك مع تعليم عالمي المستوى',
+    HERO_SUB: 'استمتع بجلسات علمية فردية مصممة للعائلات التي تعطي الأولوية للتجويد الأصيل.',
+    CTA_TRIAL: 'احجز تجربة مجانية',
+    STATUS_GLOBAL: 'التميز القرآي العالمي',
+    PORTAL_LOGIN: 'دخول البوابة',
+    BECOME_TUTOR: 'كن معلما'
+  },
+  UR: {
+    DIR: 'rtl',
+    NAV_HOME: 'ہوم',
+    NAV_ABOUT: 'تعارف',
+    NAV_COURSES: 'کورسز',
+    NAV_TUTORS: 'اساتذہ',
+    NAV_RESOURCES: 'وسائل',
+    NAV_PRICING: 'قیمت',
+    HERO_TITLE: 'عالمی معیار کی تدریس کے ساتھ اپنی روح کو بلند کریں',
+    HERO_SUB: 'ان خاندانوں کے لیے ڈیزائن کیے گئے 1-on-1 علمی سیشنز کا تجربہ کریں جو مستند تجوید کو ترجیح دیتے ہیں۔',
+    CTA_TRIAL: 'فری ٹرائل بک کریں',
+    STATUS_GLOBAL: 'عالمی قرآنی مہارت',
+    PORTAL_LOGIN: 'پورٹل لاگ ان',
+    BECOME_TUTOR: 'استاد بنیں'
+  },
+  FR: {
+    DIR: 'ltr',
+    NAV_HOME: 'Accueil',
+    NAV_ABOUT: 'À Propos',
+    NAV_COURSES: 'Cours',
+    NAV_TUTORS: 'Tuteurs',
+    NAV_RESOURCES: 'Ressources',
+    NAV_PRICING: 'Tarifs',
+    HERO_TITLE: 'Élevez Votre Âme avec un Tutorat de Classe Mondiale',
+    HERO_SUB: 'Vivez des sessions érudites individuelles conçues pour les familles qui privilégient le Tajweed authentique.',
+    CTA_TRIAL: 'Réserver un Essai Gratuit',
+    STATUS_GLOBAL: 'Excellence Coranique Mondiale',
+    PORTAL_LOGIN: 'Connexion Portail',
+    BECOME_TUTOR: 'Devenir Tuteur'
+  }
+};

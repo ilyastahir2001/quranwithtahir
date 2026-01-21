@@ -1,0 +1,8 @@
+{
+  "name": "QuranWithTahir - Elite Global Quranic Academy",
+  "description": "The world's premier digital Quran academy. Specialized 1-on-1 tutoring in Tajweed, Hifz, and Tafseer with certified Ijazah-holding faculty for global families.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
