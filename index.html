@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!-- CRITICAL: GitHub Pages Environment Shim -->
+    <script>
+        window.process = { 
+            env: { 
+                API_KEY: "" 
+            } 
+        };
+    </script>
+    
+    <!-- Runtime TSX/JSX Transpiler (Fixes White Screen) -->
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    
+    <!-- SEO Primary Tags -->
+    <title>QuranWithTahir.com | #1 Online Quran Academy for Kids & Adults</title>
+    <meta name="description" content="Learn Quran online with expert tutors at QuranWithTahir.com. Offering 1-on-1 Tajweed, Tafseer, Hifz, and Qaida classes globally. Start your 3-day FREE trial today!">
+    
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=Amiri:wght@400;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+
+<script type="importmap">
+{
+  "imports": {
+    "react": "https://esm.sh/react@^19.2.3",
+    "react/": "https://esm.sh/react@^19.2.3/",
+    "react-dom": "https://esm.sh/react-dom@^19.2.3",
+    "react-dom/": "https://esm.sh/react-dom@^19.2.3/",
+    "lucide-react": "https://esm.sh/lucide-react@^0.462.0",
+    "@google/genai": "https://esm.sh/@google/genai@^1.38.0"
+  }
+}
+</script>
+</head>
+<body class="bg-white text-gray-900 overflow-x-hidden">
+    <div id="root"></div>
+    
+    <!-- 
+      Change type to text/babel so Babel transforms the JSX 
+      data-type="module" ensures imports/exports work correctly
+    -->
+    <script type="text/babel" data-type="module" src="./index.tsx"></script>
+    <script type="text/babel" data-type="module" src="./script.js"></script>
+</body>
+</html>
